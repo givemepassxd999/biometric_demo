@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BiometricDemo</string>
+    <string name="biometric">biometric</string>
+    <string name="cannot_use_biometric">無法指紋辨識</string>
+    <string name="fingerprint">指紋辨識</string>
+    <string name="plz_input_ur_fingerprint">請輸入您的指紋</string>
+    <string name="cancel">取消</string>
+    <string name="fingerprint_success">指紋辨識成功</string>
+    <string name="fingerprint_fail">指紋辨識失敗</string>
+</resources>
